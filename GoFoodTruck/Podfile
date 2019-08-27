@@ -10,5 +10,7 @@ target 'GoFoodTruck' do
   pod 'Firebase/Auth'
   pod 'Firebase/Firestore'
   pod 'SwiftLint'
-
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  
 end

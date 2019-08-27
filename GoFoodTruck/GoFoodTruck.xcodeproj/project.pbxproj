@@ -12,13 +12,8 @@
 		091EEADD2314CB1700BF066F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091EEADB2314CB1700BF066F /* Main.storyboard */; };
 		091EEADF2314CB1900BF066F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 091EEADE2314CB1900BF066F /* Assets.xcassets */; };
 		091EEAE22314CB1900BF066F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091EEAE02314CB1900BF066F /* LaunchScreen.storyboard */; };
-<<<<<<< HEAD
 		091EEB2A2314E1BB00BF066F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 091EEB292314E1BB00BF066F /* GoogleService-Info.plist */; };
 		C8246BE98E9BE30BFD807739 /* Pods_GoFoodTruck.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AA9B1B817FFA59C417ED6ED /* Pods_GoFoodTruck.framework */; };
-=======
-		091EEB282314DA2D00BF066F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 091EEB272314DA2D00BF066F /* GoogleService-Info.plist */; };
-		539B25E185E2BAA61CB955F7 /* Pods_GoFoodTruck.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4930C76900AFC50A170CDF30 /* Pods_GoFoodTruck.framework */; };
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,17 +24,10 @@
 		091EEADE2314CB1900BF066F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		091EEAE12314CB1900BF066F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		091EEAE32314CB1900BF066F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		091EEB292314E1BB00BF066F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		43CEFF92D2B1B909683AC4FB /* Pods-GoFoodTruck.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoFoodTruck.release.xcconfig"; path = "Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck.release.xcconfig"; sourceTree = "<group>"; };
 		4AA9B1B817FFA59C417ED6ED /* Pods_GoFoodTruck.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoFoodTruck.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5F2C620D28F32BD792E19AC /* Pods-GoFoodTruck.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoFoodTruck.debug.xcconfig"; path = "Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck.debug.xcconfig"; sourceTree = "<group>"; };
-=======
-		091EEB272314DA2D00BF066F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		4930C76900AFC50A170CDF30 /* Pods_GoFoodTruck.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoFoodTruck.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4DBD39017E9794BDD1415493 /* Pods-GoFoodTruck.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoFoodTruck.release.xcconfig"; path = "Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck.release.xcconfig"; sourceTree = "<group>"; };
-		72C538DDF4306F9A3A3AEEE3 /* Pods-GoFoodTruck.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoFoodTruck.debug.xcconfig"; path = "Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck.debug.xcconfig"; sourceTree = "<group>"; };
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,11 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
 				C8246BE98E9BE30BFD807739 /* Pods_GoFoodTruck.framework in Frameworks */,
-=======
-				539B25E185E2BAA61CB955F7 /* Pods_GoFoodTruck.framework in Frameworks */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,13 +47,8 @@
 			children = (
 				091EEAD62314CB1700BF066F /* GoFoodTruck */,
 				091EEAD52314CB1700BF066F /* Products */,
-<<<<<<< HEAD
 				B2884BF3B2F54E528D7AA4C6 /* Pods */,
 				B60E449FDC8A2CF000444F53 /* Frameworks */,
-=======
-				2852AB0A992EE8727A8FB32C /* Pods */,
-				8F13F03F76FCEB9430E732CD /* Frameworks */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			);
 			sourceTree = "<group>";
 		};
@@ -90,43 +69,24 @@
 				091EEADE2314CB1900BF066F /* Assets.xcassets */,
 				091EEAE02314CB1900BF066F /* LaunchScreen.storyboard */,
 				091EEAE32314CB1900BF066F /* Info.plist */,
-<<<<<<< HEAD
 				091EEB292314E1BB00BF066F /* GoogleService-Info.plist */,
-=======
-				091EEB272314DA2D00BF066F /* GoogleService-Info.plist */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			);
 			path = GoFoodTruck;
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
 		B2884BF3B2F54E528D7AA4C6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
 				D5F2C620D28F32BD792E19AC /* Pods-GoFoodTruck.debug.xcconfig */,
 				43CEFF92D2B1B909683AC4FB /* Pods-GoFoodTruck.release.xcconfig */,
-=======
-		2852AB0A992EE8727A8FB32C /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				72C538DDF4306F9A3A3AEEE3 /* Pods-GoFoodTruck.debug.xcconfig */,
-				4DBD39017E9794BDD1415493 /* Pods-GoFoodTruck.release.xcconfig */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
 		B60E449FDC8A2CF000444F53 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				4AA9B1B817FFA59C417ED6ED /* Pods_GoFoodTruck.framework */,
-=======
-		8F13F03F76FCEB9430E732CD /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				4930C76900AFC50A170CDF30 /* Pods_GoFoodTruck.framework */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -138,20 +98,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 091EEAE62314CB1900BF066F /* Build configuration list for PBXNativeTarget "GoFoodTruck" */;
 			buildPhases = (
-<<<<<<< HEAD
 				B4F12E0ADE043D9AE4F27EAD /* [CP] Check Pods Manifest.lock */,
 				091EEAD02314CB1700BF066F /* Sources */,
 				091EEAD12314CB1700BF066F /* Frameworks */,
 				091EEAD22314CB1700BF066F /* Resources */,
 				5013CD595047A036AAD4C3E4 /* [CP] Embed Pods Frameworks */,
 				091EEB2F2314E4BA00BF066F /* swiftLint */,
-=======
-				3F8449DAFB90B4141114C7B7 /* [CP] Check Pods Manifest.lock */,
-				091EEAD02314CB1700BF066F /* Sources */,
-				091EEAD12314CB1700BF066F /* Frameworks */,
-				091EEAD22314CB1700BF066F /* Resources */,
-				DF932A7337C35516AD32DBF2 /* [CP] Embed Pods Frameworks */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
+				B440B5D97648814C828B6C93 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -201,11 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				091EEAE22314CB1900BF066F /* LaunchScreen.storyboard in Resources */,
-<<<<<<< HEAD
 				091EEB2A2314E1BB00BF066F /* GoogleService-Info.plist in Resources */,
-=======
-				091EEB282314DA2D00BF066F /* GoogleService-Info.plist in Resources */,
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 				091EEADF2314CB1900BF066F /* Assets.xcassets in Resources */,
 				091EEADD2314CB1700BF066F /* Main.storyboard in Resources */,
 			);
@@ -214,11 +163,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-<<<<<<< HEAD
 		091EEB2F2314E4BA00BF066F /* swiftLint */ = {
-=======
-		3F8449DAFB90B4141114C7B7 /* [CP] Check Pods Manifest.lock */ = {
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -226,7 +171,6 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-<<<<<<< HEAD
 			);
 			name = swiftLint;
 			outputFileListPaths = (
@@ -238,23 +182,6 @@
 			shellScript = "\"${PODS_ROOT}/SwiftLint/swiftlint\"\n";
 		};
 		5013CD595047A036AAD4C3E4 /* [CP] Embed Pods Frameworks */ = {
-=======
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-GoFoodTruck-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		DF932A7337C35516AD32DBF2 /* [CP] Embed Pods Frameworks */ = {
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -271,7 +198,23 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-<<<<<<< HEAD
+		B440B5D97648814C828B6C93 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GoFoodTruck/Pods-GoFoodTruck-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		B4F12E0ADE043D9AE4F27EAD /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -294,8 +237,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-=======
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -448,11 +389,7 @@
 		};
 		091EEAE72314CB1900BF066F /* Debug */ = {
 			isa = XCBuildConfiguration;
-<<<<<<< HEAD
 			baseConfigurationReference = D5F2C620D28F32BD792E19AC /* Pods-GoFoodTruck.debug.xcconfig */;
-=======
-			baseConfigurationReference = 72C538DDF4306F9A3A3AEEE3 /* Pods-GoFoodTruck.debug.xcconfig */;
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -471,11 +408,7 @@
 		};
 		091EEAE82314CB1900BF066F /* Release */ = {
 			isa = XCBuildConfiguration;
-<<<<<<< HEAD
 			baseConfigurationReference = 43CEFF92D2B1B909683AC4FB /* Pods-GoFoodTruck.release.xcconfig */;
-=======
-			baseConfigurationReference = 4DBD39017E9794BDD1415493 /* Pods-GoFoodTruck.release.xcconfig */;
->>>>>>> 0dab7f25fc5b736b8ee718dd7c50085755888bd8
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
